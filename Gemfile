@@ -1,14 +1,11 @@
 source 'https://rubygems.org'
 gem 'devise'
 
-group :production do
+group :development, :test, :production do
   gem 'pg'
   gem "activerecord-postgresql-adapter"
 end
 
-group :development, :test do
-  gem 'sqlite3'
-end
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
