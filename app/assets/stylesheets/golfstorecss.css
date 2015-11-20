@@ -1,12 +1,12 @@
 /* body {
-    background-image: url("/assets/Site/Background.jpg");
+    background-image: url("/assets/Background.jpg");
     font-family: sans-serif;
     margin: 0;
     padding: 0;
 } */
 
 body {
-background: url("/assets/Site/Bodenstown.jpg") no-repeat center center fixed; 
+background: url("/assets/Bodenstown.jpg") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -21,7 +21,7 @@ div#container {
     position: relative;
     min-height: 850px;
     border:2px orange solid;
-    /* background-image: url("/assets/Site/bg3.gif"); */
+    /* background-image: url("/assets/bg3.gif"); */
     max-width: 1000px;
     min-width: 750px;
     margin: auto;
@@ -31,7 +31,7 @@ div#first-column {
     position: absolute;
     top: 0;
     bottom: 0;
-    /* background-image: url("/assets/Site/bg3.gif"); */
+    /* background-image: url("/assets/bg3.gif"); */
     width: 279px;
     margin: 3px;
 }
@@ -43,7 +43,7 @@ div#content {
 	padding: 3px;
     margin: 3px 3px 3px 5px;
     /*background: rgb(240, 240, 240);*/
-    background-image: url("/assets/Site/bg3.gif");
+    background-image: url("/assets/bg3.gif");
     border: 1px solid gray;
     min-height: 850px;
     width: 700px;
@@ -73,7 +73,7 @@ div#menu {
 }
 div#header {
     border-bottom: none;
-   background-image: url("/assets/Site/BookHeader.jpg");
+   background-image: url("/assets/BookHeader.jpg");
     width: 1024px;
     height: 170px;
 }
@@ -86,7 +86,7 @@ div.box {
 	padding: 5px;
 	height: 260px;
 	border:2px orange solid;
-	background-image: url("/assets/Site/bg3.gif");
+	background-image: url("/assets/bg3.gif");
  	border-radius:9px;
  	-moz-border-radius:9px; /* Old Firefox */
 
@@ -97,7 +97,7 @@ div.searchbox {
 	padding: 5px;
 	height: 55px;
 	border:2px orange solid;
-	background-image: url("/assets/Site/bg3.gif");
+	background-image: url("/assets/bg3.gif");
  	border-radius:9px;
  	-moz-border-radius:9px; /* Old Firefox */
 
@@ -109,7 +109,7 @@ div.loginbox {
 	height: 65px;
 	border:2px orange solid;
  	border-radius:9px;
- 	background-image: url("/assets/Site/bg3.gif");
+ 	background-image: url("/assets/bg3.gif");
  	-moz-border-radius:9px; /* Old Firefox */
 
 }
@@ -166,7 +166,7 @@ div.loginbox {
 	margin-bottom: 10px;
 	margin-top: 5px;
 	margin-left: 5px;
-	background-image:url('/assets/Site/PageHeader.jpg');
+	background-image:url('/assets/PageHeader.jpg');
 	background-size:40px;
 	border:2px silver solid;
  	border-radius:9px;
