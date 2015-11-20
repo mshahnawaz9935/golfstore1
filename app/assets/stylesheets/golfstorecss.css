@@ -73,8 +73,7 @@ div#menu {
 }
 div#header {
     border-bottom: none;
-	background-image: image-url("BookHeader.jpg");
-  /*  background-image: url("/assets/Site/BookHeader.jpg");*/
+   background-image: url("/assets/Site/BookHeader.jpg");
     width: 1024px;
     height: 170px;
 }
